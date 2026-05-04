@@ -6,3 +6,4 @@
   - [8. Tuples and Arrays](https://google.github.io/comprehensive-rust/tuples-and-arrays.html)
   - [9. References](https://google.github.io/comprehensive-rust/references.html)
   - [10. User-Defined Type](https://google.github.io/comprehensive-rust/user-defined-types.html)
+  - [Pattern Matching](https://google.github.io/comprehensive-rust/pattern-matching.html)
